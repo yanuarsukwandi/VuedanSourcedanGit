@@ -17,7 +17,7 @@
           contain
           min-width="100"
           src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
+          width="1000"
         />
       </div>
 
@@ -39,7 +39,7 @@
 import HelloWorld from "./components/HelloWorld";
 
 export default {
-  name: "App",
+  name: "FUCEEKKKKK",
 
   components: {
     HelloWorld
